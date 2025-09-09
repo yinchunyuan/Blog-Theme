@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ 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 }} 
+          token: ${{  }} 
           user: yinchunyuan
           repo: 666
           template: repository 
